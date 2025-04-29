@@ -1,0 +1,17 @@
+.khaled {
+   background-color: gray ;
+   padding: 20px 0px !important;
+}
+.kmd a{
+    color: #fff!important;
+    padding: 0px 20px !important;
+    margin-left: 50px;
+}
+
+.khaled .contact a{
+    text-decoration: none;
+    padding: 0 20px;
+    background-color: gainsboro;
+    padding: 12px 30px;
+    border-radius: 15%;
+}

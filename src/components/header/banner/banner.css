@@ -1,0 +1,10 @@
+#kk h1{
+    color: rgb(255, 253, 254);
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#kk{
+    padding: 100px 0px 200px 0px;
+    background: url(/src/img/tulips.jpg) no-repeat center / cover;
+}
